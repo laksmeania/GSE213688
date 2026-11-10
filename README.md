@@ -20,3 +20,5 @@ folder with the spot positions, tissue image, and `scalefactors_json.json`.
 GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213688
 
 Cluster labels are preliminary interpretations based on marker genes, not validated cell-type annotations.
+
+Extract the M1 sample into data/GSE213688/M1 inside the project folder. Then run spatial_transcriptomics_analysis.R in RStudio.
